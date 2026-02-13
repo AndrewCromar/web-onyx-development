@@ -1,2 +1,2 @@
 # web-onyx-development
-ONYX Development website source code.
+Source code for the "ONYX Development" website.
