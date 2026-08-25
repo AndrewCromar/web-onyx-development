@@ -3,11 +3,20 @@
     src: url("../fonts/PixelPurl.ttf");
 }
 
+@font-face {
+    font-family: PixelifySans;
+    src: url("../fonts/PixelifySans-Regular.ttf");
+}
+
+@font-face {
+    font-family: GeistPixel;
+    src: url("../fonts/GeistPixel-Regular-VariableFont_ELSH.ttf");
+}
+
 .drewsweeper {
     background-image: url("../images/tile.png");
 
-    font-family: "PixelPurl";
-    font-size: larger;
+    font-family: "GeistPixel";
 
     color: white;
 

@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Roboto;
+    src: url("../fonts/Roboto-Regular.ttf");
+}
+
+.play-onyx-button {
+    background-color: #9000ff;
+
+    color: white;
+    
+    font-family: Roboto;
+    text-decoration: none;
+    letter-spacing: -0.5px;
+    
+    padding: 5px;
+
+    border: solid rgba(0,0,0,0.1) 2px;
+    border-radius: 5px;
+}
