@@ -1,0 +1,29 @@
+@font-face {
+    font-family: PixelPurl;
+    src: url("../fonts/PixelPurl.ttf");
+}
+
+.drewsweeper {
+    background-image: url("../images/tile.png");
+
+    font-family: "PixelPurl";
+    font-size: larger;
+
+    color: white;
+
+    text-align: center;
+
+    border-top: solid #73bed3 2px;
+    border-left: solid #73bed3 2px;
+    border-right: solid #3c5e8b 2px;
+    border-bottom: solid #3c5e8b 2px;
+}
+
+.drewsweeper > hr {
+    background-color: white;
+    
+    width: 100%;
+    height: 2px;
+    
+    border: 0;
+}
