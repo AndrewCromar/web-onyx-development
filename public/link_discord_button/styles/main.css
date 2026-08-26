@@ -1,6 +1,13 @@
 @font-face {
     font-family: ggSans;
     src: url("../fonts/gg-sans-Regular.ttf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: ggSans;
+    src: url("../fonts/gg-sans-Bold.ttf");
+    font-weight: 700;
 }
 
 .link-discord-button {
