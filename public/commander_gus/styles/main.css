@@ -1,0 +1,29 @@
+@font-face {
+    font-family: PixelifySans;
+    src: url("../fonts/PixelifySans-Regular.ttf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: PixelifySans;
+    src: url("../fonts/PixelifySans-Bold.ttf");
+    font-weight: 700;
+}
+
+.commander-gus {
+    background-image: url("../images/background.png");
+
+    font-family: "PixelifySans";
+
+    color: #639bff;
+
+    text-align: center;
+
+    border: solid #639bff 2px;
+}
+
+.commander-gus > hr {
+    width: 99%;
+    
+    border: solid #639bff 1px;
+}
