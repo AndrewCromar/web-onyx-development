@@ -1,18 +1,5 @@
-@font-face {
-    font-family: AsapSharp;
-    src: url("../fonts/AsapSharp-Regular.ttf");
-    font-weight: 400;
-}
-
-@font-face {
-    font-family: AsapSharp;
-    src: url("../fonts/AsapSharp-Bold.ttf");
-    font-weight: 700;
-}
-
 .onyx {
-    font-family: "AsapSharp";
-    text-align: center;
+    border: solid white 2px;
 }
 
 .onyx > .banner-bleed {
@@ -25,6 +12,6 @@
 
 .onyx .banner {
     display: block;
-    max-width: 50%;
+    max-width: 75%;
     margin-inline: auto;
 }
