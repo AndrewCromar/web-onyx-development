@@ -1,0 +1,29 @@
+@font-face {
+    font-family: Comfortaa;
+    src: url("../fonts/Comfortaa-Regular.ttf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: Comfortaa;
+    src: url("../fonts/Comfortaa-Bold.ttf");
+    font-weight: 700;
+}
+
+.oranyth {
+    background-color: #3e3e3e;
+
+    color: white;
+
+    font-family: "Comfortaa";
+
+    text-align: center;
+
+    border: solid black 3px;
+}
+
+.oranyth > hr {
+    width: 99%;
+
+    border: solid white 1px;
+}
