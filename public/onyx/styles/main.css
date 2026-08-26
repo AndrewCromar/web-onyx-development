@@ -15,6 +15,16 @@
     text-align: center;
 }
 
-.onyx > .banner {
+.onyx > .banner-bleed {
+    background-image: linear-gradient(
+        to right,
+        #9000ff 0 50%,
+        white 50% 100%
+    );
+}
+
+.onyx .banner {
+    display: block;
     max-width: 50%;
+    margin-inline: auto;
 }
