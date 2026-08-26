@@ -1,0 +1,19 @@
+@font-face {
+    font-family: ggSans;
+    src: url("../fonts/gg-sans-Regular.ttf");
+}
+
+.link-discord-button {
+    background-color: #7289da;
+    
+    color: white;
+    
+    font-family: "ggSans";
+    text-decoration: none;
+    letter-spacing: -0.5px;
+    
+    padding: 5px;
+
+    border: solid rgba(0,0,0,0.1) 2px;
+    border-radius: 5px;
+}

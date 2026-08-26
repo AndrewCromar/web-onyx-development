@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Lato;
+    src: url("../fonts/Lato-Regular.ttf");
+}
+
+.link-github-button {
+    background-color: #909692;
+    
+    color: white;
+    
+    font-family: Lato;
+    text-decoration: none;
+    letter-spacing: -0.5px;
+    
+    padding: 5px;
+
+    border: solid rgba(0,0,0,0.1) 2px;
+    border-radius: 5px;
+}

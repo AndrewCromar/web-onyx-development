@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Roboto;
+    src: url("../fonts/Roboto-Regular.ttf");
+}
+
+.link-youtube-button {
+    background-color: #FF0000;
+    
+    color: white;
+    
+    font-family: "Roboto";
+    text-decoration: none;
+    letter-spacing: -0.5px;
+    
+    padding: 5px;
+
+    border: solid rgba(0,0,0,0.1) 2px;
+    border-radius: 5px;
+}
