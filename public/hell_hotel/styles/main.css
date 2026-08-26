@@ -1,0 +1,30 @@
+@font-face {
+    font-family: CormorantGaramond;
+    src: url("../fonts/CormorantGaramond-Regular.ttf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: CormorantGaramond;
+    src: url("../fonts/CormorantGaramond-Bold.ttf");
+    font-weight: 700;
+}
+
+.hell-hotel {
+    background-color: #a03131;
+
+    color: black;
+
+    font-family: "CormorantGaramond";
+    font-size: larger;
+
+    text-align: center;
+
+    border: solid black 3px;
+}
+
+hr {
+    width: 99%;
+
+    border: solid black 1px;
+}
